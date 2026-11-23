@@ -100,7 +100,7 @@ The AI reasoning uses a provider you bring a key for (OpenRouter, Groq, Google G
 ### Installation
 
 ```powershell
-git clone https://github.com/sravanthskr/sotto.git
+git clone https://github.com/NavyaRayani/sotto.git
 cd sotto
 python -m venv .venv
 .venv\Scripts\activate
@@ -220,4 +220,4 @@ If you find a bug or have a suggestion, open a GitHub issue with what you tried 
 
 ## License
 
-© 2026 sravanthskr. All rights reserved.
+© 2026 navya Rayani. All rights reserved.
